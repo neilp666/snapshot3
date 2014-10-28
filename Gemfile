@@ -10,6 +10,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
+gem 'instagram'
+gem 'figaro'
 
 group :production do
   gem 'pg'
